@@ -21,6 +21,12 @@ sudo apt install gdb
 gcc -g test.c -o test
 ```
 
+- 运行代码
+
+```
+./test.c
+```
+
 - 调试
 
 ```
